@@ -4,7 +4,9 @@ It is interesting to learn git.
 Srividhya says: hi Gayathri, I am good, thanks. How are you???
 Lets do it together !!!
 
-Hi Gayathri and Srividhya I would like to learn git with you guys.
+Hi Gayathri and Srividhya I would like to learn git with you guys
+
+Happy Studying!.
 
 
 Successfully Pushed from GIT!!!
